@@ -1,15 +1,13 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Private Wohnungen
+subtitle: Hier trifft Komfort auf modernes Design
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2018-04-12
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2018
+description: Am Domweg bieten diese privaten Wohnungen ein Höchstmaß an Komfort und stilvollem Design. Die großzügigen Wohnräume überzeugen durch ihre hochwertige Ausstattung und einladende Atmosphäre. Hier genießen die Bewohner ein exklusives Lebensgefühl in einer erstklassigen Lage.
 
 ---
