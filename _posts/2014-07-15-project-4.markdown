@@ -9,5 +9,5 @@ thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: April 2018
 category: Private Wohnungen
-description: Am Domweg gelegen, bieten diese privaten Wohnungen eine perfekte Mischung aus Komfort und stilvollem Design. Die modernen Wohnräume überzeugen durch ihre hochwertige Ausstattung und durchdachte Grundrisse. Hier genießen die Bewohner ein exklusives Wohngefühl in einer erstklassigen Lage.feugiat noluisse.
+description: Am Domweg gelegen, bieten diese privaten Wohnungen eine perfekte Mischung aus Komfort und stilvollem Design. Die modernen Wohnräume überzeugen durch ihre hochwertige Ausstattung und durchdachte Grundrisse. Hier genießen die Bewohner ein exklusives Wohngefühl in einer erstklassigen Lage.
 ---
