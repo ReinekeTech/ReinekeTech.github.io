@@ -1,15 +1,13 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Ländliche Doppelhaushälfte
+subtitle: Effizienzhaus
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2021-01-03
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Januar 2021
+description: Diese ländliche Doppelhaushälfte in Wewer besticht durch ihre idyllische Lage und moderne Architektur. Als Effizienzhaus konzipiert, bietet sie nicht nur ein gemütliches Wohnambiente, sondern auch eine herausragende Energieeffizienz. Die harmonische Kombination von Natur und fortschrittlicher Bauweise macht dieses Zuhause zu einem idealen Rückzugsort.
 
 ---
