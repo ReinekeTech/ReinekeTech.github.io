@@ -1,15 +1,13 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Ruhige Doppelhaushälften
+subtitle: In erstklassiger Lage
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2023-07-21
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Juli 2023
+description: Am Greitelerweg bieten ruhige Doppelhaushälften in guter Lage ein ideales Wohnumfeld für Familien und Paare. Die modernen Häuser überzeugen durch ihre hochwertige Ausstattung und großzügigen Grundrisse. Hier genießen die Bewohner ein harmonisches und komfortables Leben in einer begehrten Wohngegend.
 
 ---
