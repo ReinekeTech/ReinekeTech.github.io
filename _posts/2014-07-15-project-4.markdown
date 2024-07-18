@@ -1,15 +1,13 @@
 ---
 title: Treehouse
-subtitle: Website Design
+subtitle: Hier trifft Komfort auf stilvolles Design
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2018-04-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: April 2018
+category: Private Wohnungen
+description: Am Domweg gelegen, bieten diese privaten Wohnungen eine perfekte Mischung aus Komfort und stilvollem Design. Die modernen Wohnräume überzeugen durch ihre hochwertige Ausstattung und durchdachte Grundrisse. Hier genießen die Bewohner ein exklusives Wohngefühl in einer erstklassigen Lage.
 ---
