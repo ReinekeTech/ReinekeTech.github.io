@@ -1,6 +1,6 @@
 ---
-title: Luxuriöse Penthouse Wohnung
-subtitle: Am Domweg
+title: Penthouse Wohnung
+subtitle: exklusiv und luxuriös
 layout: default
 modal-id: 6
 date: 2018-04-20
