@@ -269,13 +269,10 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background-image: url('{{ site.baseurl }}/img/header-bg.jpg'), url('{{ site.baseurl }}/img/dein-bild.jpg');
+    background-position: center center, top right;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover, 100px 100px; /* Passe die Größe nach Bedarf an */
 }
 
 header .intro-text {
