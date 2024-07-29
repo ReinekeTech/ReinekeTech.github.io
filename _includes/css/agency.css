@@ -275,6 +275,34 @@ header {
     background-size: cover, 100px 100px; /* Passe die Größe nach Bedarf an */
 }
 
+header {
+    position: relative;
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url('{{ site.baseurl }}/img/header-bg.jpg'), url('{{ site.baseurl }}/img/dein-bild.jpg');
+    background-position: center center, top right;
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover, 100px 100px;
+}
+
+/* Bild in der Ecke beim Scrollen */
+.header-bg-small {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 50px; /* Anpassbare Größe */
+    height: 50px; /* Anpassbare Größe */
+    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-size: cover;
+    z-index: 1000;
+    display: none;
+}
+
+.header-bg-small.show {
+    display: block;
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
